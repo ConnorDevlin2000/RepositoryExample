@@ -1,2 +1,2 @@
 # RepositoryExample
-Hello, this is our repository for practicing Git commands.
+Hello, this is the repository for practicing Git commands with my students.
